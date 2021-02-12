@@ -94,7 +94,6 @@ function fizzBuzz(numero) {
   if((numero%3)==0&&(numero%5)==0){return "fizzbuzz"};
   if((numero%3)==0){return "fizz"};
   if((numero%5)==0){return "buzz"};
-  
   return numero;
 }
 
@@ -110,7 +109,7 @@ function operadoresLogicos(num1, num2, num3) {
   if(num1>num2&&num1>num3&&num1>0){return "Número 1 es mayor y positivo"};
   
   if(num3>num1&&num3>num2){return (num3+1)};
-  
+
   return false;
 }
 
