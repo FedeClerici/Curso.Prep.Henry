@@ -1,0 +1,5 @@
+Variable: un espacio donde se almacena un dato, puede ser numeros, caracteres,etc. 
+String: un tipo de dato que se pone entre comillas y es utilizado para caracteres o palabras.
+Funciones: son objetos invocables que sirven para calcular, operar o cambiar variables.
+If: permite verificar si una variable es true y avanzar si lo es.
+Booleanos: son datos que solo pueden ser verdadero(true) o falso(false).
