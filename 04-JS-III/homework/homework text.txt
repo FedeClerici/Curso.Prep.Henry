@@ -1,0 +1,2 @@
+Arrays: El arreglo o matriz permite contener una coleccion de datos.
+primero se declara la variable y luego dentro [] se almacenan los datos y se separan por comas(,).
