@@ -1,0 +1,9 @@
+For: Consta de tres partes (1;2;3)
+1 se declara la variable.
+2 la condicion para que se siga ejecutando.
+3 en cuanto se incrementa la variable.
+
+Operadores logicos: 
+&& es el equivalente a AND(Y).
+|| es el equivalente a OR(O).
+! es el equivalente a NOT(No o lo opuesto).
