@@ -37,6 +37,7 @@ function multiplicarNumeroDesconocidoPorCinco(objetoMisterioso) {
   // Multiplica el numeroMisterioso por 5 y devuelve el producto
   // Tu código:
   var num=objetoMisterioso.numeroMisterioso*5;
+
   return num;
 }
 
@@ -97,6 +98,7 @@ function actualizarPassword(usuario, nuevaPassword) {
   // Devuelve el objeto
   // Tu código:
   usuario.password = nuevaPassword;
+
   return usuario;
 }
 
@@ -106,6 +108,7 @@ function agregarAmigo(usuario, nuevoAmigo) {
   // Devuelve el objeto "usuario"
   // // Tu código:
   usuario.amigos.push (nuevoAmigo);
+
   return usuario;
 }
 
