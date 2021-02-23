@@ -98,7 +98,6 @@ function actualizarPassword(usuario, nuevaPassword) {
   // Devuelve el objeto
   // Tu código:
   usuario.password = nuevaPassword;
-
   return usuario;
 }
 
