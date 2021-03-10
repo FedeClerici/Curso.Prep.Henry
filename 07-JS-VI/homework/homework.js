@@ -59,7 +59,7 @@ function filter(array) {
   //Tu código:
   var nuevoA=[];
   for (var i=0;i<array.length;i++){
-    if (array[i]==="a") {
+    if (array[i][0]==="a") {
       nuevoA.push(array[i]);
     }
   }
